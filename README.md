@@ -8,9 +8,14 @@
   - [SeaLevel-analysis](https://github.com/blade15/SeaLevel-analysis)
 
 
-<h2>Data Analysis projects<h2>
+  <h2>MIT Course Work</h2>
   
 <h2> Cyber Security projects:</h2>
+
+
+<h2>C# project</h2>
+
+<h2>C++ Game Engine </h2>
   
 <h2>Certifications</h2>
 
