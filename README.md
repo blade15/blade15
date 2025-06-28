@@ -14,6 +14,7 @@
   
 <h2>Certifications</h2>
 
+- [my Qaulificaions](https://github.com/blade15/Qaulifications)
 
 <!--
 **blade15/blade15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
