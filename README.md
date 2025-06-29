@@ -10,7 +10,7 @@
 
   <h2>MIT Course Work</h2>
 
-  -[Cars_Price_Prediction-Project](https://github.com/blade15/Cars_Price_Prediction-Project)
+  - [Cars_Price_Prediction-Project](https://github.com/blade15/Cars_Price_Prediction-Project)
   
 <h2> Cyber Security projects:</h2>
 
