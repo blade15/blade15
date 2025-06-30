@@ -14,6 +14,8 @@
   
 <h2> Cyber Security projects:</h2>
 
+- [Encryption Project(work in progress)](https://github.com/blade15/Encryption)
+
 <h2>C++ Game Engine </h2>
 
 - [Chess Game](https://github.com/blade15/ChessgameGameEngine)
