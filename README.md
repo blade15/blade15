@@ -18,7 +18,8 @@
 <h2>C# project</h2>
 
 <h2>C++ Game Engine </h2>
-- [Chess Game]https://github.com/blade15/ChessgameGameEngine
+
+- [Chess Game](https://github.com/blade15/ChessgameGameEngine)
   
 <h2>Certifications</h2>
 
