@@ -14,9 +14,6 @@
   
 <h2> Cyber Security projects:</h2>
 
-
-<h2>C# project</h2>
-
 <h2>C++ Game Engine </h2>
 
 - [Chess Game](https://github.com/blade15/ChessgameGameEngine)
