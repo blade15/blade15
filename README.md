@@ -1,5 +1,10 @@
 <h1>Hi, I'm Olwethu Pule! 
 
+
+
+> South-African data enthusiast  
+> 🐍 Python • 🎮 C++ • 🔐 Cyber-security • 📊 Data Analysis  
+
 <h2>👨‍💻 Data Analyst Projects from FreeCodeCamp:</h2>
 
   - [Mean-Variance-Standard Deviation Calculator](https://github.com/blade15/demographic-analyzer)
