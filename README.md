@@ -3,7 +3,7 @@
 
 
 > South-African data enthusiast  
-> 🐍 Python • 🎮 C++ • 🔐 Cyber-security • 📊 Data Analysis  
+> 🐍 Python • 🔐 Cyber-security • 📊 Data Analysis  
 
 <h2>👨‍💻 Data Analyst Projects from FreeCodeCamp:</h2>
 
