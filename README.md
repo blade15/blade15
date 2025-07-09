@@ -5,16 +5,12 @@
 > South-African data enthusiast  
 > 🐍 Python • 🔐 Cyber-security • 📊 Data Analysis  
 
-<h2>👨‍💻 Data Analyst Projects from FreeCodeCamp:</h2>
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
   - [Mean-Variance-Standard Deviation Calculator](https://github.com/blade15/demographic-analyzer)
   - [demographic-analyzer](https://github.com/blade15/demographic-analyzer)
   - [medical_analysis](https://github.com/blade15/medical_analysis)
   - [SeaLevel-analysis](https://github.com/blade15/SeaLevel-analysis)
-
-
-  <h2>MIT Course Work</h2>
-
   - [Cars_Price_Prediction-Project](https://github.com/blade15/Cars_Price_Prediction-Project)
   
 <h2> Cyber Security projects:</h2>
