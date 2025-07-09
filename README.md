@@ -8,7 +8,7 @@
 <h2>👨‍💻 Data Analyst Projects from FreeCodeCamp:</h2>
 
   - [Mean-Variance-Standard Deviation Calculator](https://github.com/blade15/demographic-analyzer)
-  - [demographic-analyzer](https://github.com/blade15/medical_analysis)
+  - [demographic-analyzer]((https://github.com/blade15/demographic-analyzer))
   - [medical_analysis](https://github.com/blade15/medical_analysis)
   - [SeaLevel-analysis](https://github.com/blade15/SeaLevel-analysis)
 
