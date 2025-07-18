@@ -1,9 +1,16 @@
-<h1>Hi, I'm Olwethu Pule! 
+#Hi, I'm Olwethu Pule! 
 
 
 
 > South-African data enthusiast  
-> 🐍 Python • 🔐 Cyber-security • 📊 Data Analysis  
+> 🐍 Python •  📊 Data Analysis
+
+I’m Olwethu Pule, a data science professional with a strong foundation in <em>Computer and Information Sciences</em> and specialized training from the <em>MIT Applied Data Science Program</em>. I combine technical skills in Python, Pandas, NumPy, and Scikit-learn with a problem-solving mindset.
+
+My portfolio highlights hands-on projects in <em>data cleaning, analysis, visualization, predictive modeling</em>, and <em>cybersecurity</em>, demonstrating my ability to turn raw data into actionable insights. I’m actively seeking opportunities to apply data-driven thinking in innovative, impact-oriented teams.
+
+
+
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
@@ -12,14 +19,12 @@
   - [medical_analysis](https://github.com/blade15/medical_analysis)
   - [SeaLevel-analysis](https://github.com/blade15/SeaLevel-analysis)
   - [Cars_Price_Prediction-Project](https://github.com/blade15/Cars_Price_Prediction-Project)
+
+
+<h2>👨‍💻 Data Analyst & Enginering  Projects:</h2>
   
-<h2> Cyber Security projects:</h2>
 
-- [Encryption Project(work in progress)](https://github.com/blade15/Encryption)
 
-<h2>C++ Game Engine </h2>
-
-- [Chess Game](https://github.com/blade15/ChessgameGameEngine)
   
 
 
